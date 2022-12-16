@@ -5,7 +5,7 @@
     "botName": "DarkBotz-MD",
     "footer": "darkzbot",
     "sessionName": "session",
-    "fotoDonasi": "./qris.jpg",
+    "fotoDonasi": "./media/qris.jpg",
     "pathimg": "./media/lmfao.jpg",
     "BotKey": "cDDLS5vm",
     "auto_welcomeMsg": false,
