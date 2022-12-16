@@ -28,6 +28,7 @@ ${mundur}
  • Time : ${jam}
  • Date : ${tanggal(new Date())}
  • Runtime : ${runtime(process.uptime())}
+ • *NOTE* : Database g disave, mending jangan register atau main RPG :v
 
 *USER INFO*
  • Name : ${pushname !== undefined ? pushname : '-'}
