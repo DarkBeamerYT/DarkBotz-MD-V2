@@ -6,7 +6,7 @@
     "footer": "darkzbot",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
-    "pathimg": "./media/lmfao.jpg",
+    "pathimg": "./lmfao.jpg",
     "BotKey": "cDDLS5vm",
     "auto_welcomeMsg": false,
     "auto_leaveMsg": false,    
