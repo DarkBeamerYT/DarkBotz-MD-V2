@@ -47,20 +47,20 @@ if (global.db) global.db.data = {
 }
 
 function title() {
-    console.log(chalk.bold.green(figlet.textSync('Haruka Bot', {
+    console.log(chalk.bold.green(figlet.textSync('Dark Tzy', {
         font: 'Standard',
         horizontalLayout: 'default',
         verticalLayout: 'default',
         width: 80,
         whitespaceBreak: false
     })))
-    console.log(chalk.yellow(`\n${chalk.yellow('Created By Zeeone Ofc')}\n`))
+    console.log(chalk.yellow(`\n${chalk.yellow('Kane Banget Cuy')}\n`))
 }
 
     const haruka = harukaConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Haruka Multi Device','Safari','1.0.0'],
+        browser: ['DarkTzy','Safari','1.0.0'],
         auth: state
     })
 	title() 
@@ -185,7 +185,7 @@ function title() {
             else if (reason === DisconnectReason.timedOut) { console.log("Connection TimedOut, Reconnecting..."); startHaruka(); }
             else haruka.end(`Unknown DisconnectReason: ${reason}|${connection}`)
         }
-        console.log('Connect, Welcome Owner')
+        console.log('Connected deck')
     })
 
     haruka.ev.on('creds.update', saveState)
