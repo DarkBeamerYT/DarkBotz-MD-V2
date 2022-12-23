@@ -40,7 +40,7 @@
 
 # Instalasi
 ## FOR REPLIT USER
-[![Run on Repl.it](https://repl.it/badge/github/zeeone-ofc/Haruka-Md)](https://repl.it/github/zeeone-ofc/Haruka-Md)
+[![Run on Repl.it](https://repl.it/badge/github/DarkBeamerYT/DarkBotz-MD-V2)](https://repl.it/github/DarkBeamerYT/DarkBotz-MD-V2)
 
 [`Click Here For Tutorial`](https://youtu.be/jom_scHK09c)<br>
 
