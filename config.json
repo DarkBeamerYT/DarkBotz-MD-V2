@@ -1,5 +1,5 @@
 {
-    "ownerNumber": ["60197588090@s.whatsapp.net","60186201710@s.whatsapp.net"],
+    "ownerNumber": ["60186201710@s.whatsapp.net","60197588090@s.whatsapp.net"],
     "ownerName": "darktzy",
     "instagram" : "https://instagram.com/darkbeameryt",
     "botName": "DarkBotz-MD",
@@ -16,9 +16,9 @@
     "autoblok212": true,
     "autoread": true,
     "gamewaktu": 90,
-    "limitCount": 80,
+    "limitCount": 15,
     "gcount": {
-        "prem": 500,
-        "user": 50
+        "prem": 100,
+        "user": 15
     }
 }
